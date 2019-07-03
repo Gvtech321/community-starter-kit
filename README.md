@@ -1,8 +1,7 @@
 # welcome bot: A Probot App
 
 DESCRIPTION PLACEHOLDER
-This is training course
-
+This app will email messages to new joiners
 
 ## What it does
 
