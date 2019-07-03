@@ -1,10 +1,13 @@
 # welcome bot: A Probot App
 
 DESCRIPTION PLACEHOLDER
+This is training course
+
 
 ## What it does
 
 FEATURES PLACEHOLDER
+email messages to new joiners
 
 ## Getting started
 
