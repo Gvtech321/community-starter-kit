@@ -1,7 +1,7 @@
 # welcome bot: A Probot App
 
 DESCRIPTION PLACEHOLDER
-This app will email messages to new joiners
+A GitHub App built with probot that celebrates new user activity within your repository.
 
 ## What it does
 
